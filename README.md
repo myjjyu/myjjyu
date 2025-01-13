@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">  -->
  <br> 
+ 
   <img src="https://img.shields.io/badge/Markdown-696969?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
@@ -23,6 +24,7 @@
   </div>
 
 <br>
+<br> 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -34,6 +36,8 @@
   <img src="https://img.shields.io/badge/Slack-612497?style=for-the-badge&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </div>
+
+<br> 
 <br>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
@@ -44,3 +48,12 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+<br>
+<br> 
+<h3 align="center">⏲️ Github-stats ⏲️</h3>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myjjyu&layout=compact&theme=dracula"height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=myjjyu&show_icons=true&theme=dracula"height="150">
+</div>
+
