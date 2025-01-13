@@ -1,4 +1,4 @@
-## Welcome to jjyu_my's Github🚀
+<h2 align="center">Welcome to jjyu_my's Github 🚀</h2>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
