@@ -1,7 +1,6 @@
-<img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20myjjyu%20GitHub%20🚀&fontSize=45&fontColor=ffffff" />
+<img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20myjjyu%20GitHub%20🚀&fontSize=45&fontColor=ffffff" />
 
-<!-- <img alt="header" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Welcome%20to%20my%20GitHub%20🚀&fontAlign=50&fontAlignY=70&fontSize=40&fontColor=ffffff" /> -->
-
+<!-- <img alt="header" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Welcome%20to%20myjjyu%20GitHub%20🚀&fontAlign=50&fontAlignY=70&fontSize=40&fontColor=ffffff" /> -->
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -39,11 +38,11 @@
 
 <br> 
 <br>
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📮 Contact 📮</h3>
 <div align="center">
    <a href="https://velog.io/@jjyu_my/series">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>&nbsp
+  </a>
   <a href="mailto:gilju528@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -51,9 +50,8 @@
 
 <br>
 <br> 
-<h3 align="center">⏲️ Github-stats ⏲️</h3>
+<h3 align="center">🕰️ Github-stats 🕰️ </h3>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myjjyu&layout=compact&theme=dracula"height="150">
 <img src="https://github-readme-stats.vercel.app/api?username=myjjyu&show_icons=true&theme=dracula"height="150">
 </div>
-
