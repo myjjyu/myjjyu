@@ -2,7 +2,6 @@
   <img alt="header" src="https://github.com/myjjyu/github_logo/blob/main/logo2.gif?raw=true"/>
 </div>
 <br>
-<br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
