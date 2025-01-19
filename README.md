@@ -1,6 +1,7 @@
-<div align="center">
-  <img alt="header" src="https://github.com/myjjyu/github_logo/blob/main/logo.gif?raw=true"/>
-</div>
+<img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20myjjyu%20GitHub%20🚀&fontSize=40&fontColor=ffffff" />
+
+<!-- <img alt="header" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Welcome%20to%20myjjyu%20GitHub%20🚀&fontAlign=50&fontAlignY=70&fontSize=40&fontColor=ffffff" /> -->
+
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
